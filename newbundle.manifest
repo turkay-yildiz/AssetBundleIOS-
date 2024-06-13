@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 616056562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b377fe99843c86aad1ab3785c43eea0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Sprite/Numbers Book.png
+- Assets/Scenes/Sprite/Tracing Robot.png
+- Assets/Scenes/Sprite/Smoothie Counting.png
+- Assets/Scenes/Sprite/Memorize Beach.png
+- Assets/Scenes/Sprite/Number Jump.png
+- Assets/Scenes/Sprite/Sand Art.png
+- Assets/Scenes/Sprite/Sand Castles.png
+- Assets/Scenes/Sprite/Forgetful.png
+Dependencies: []
